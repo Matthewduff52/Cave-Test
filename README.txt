@@ -24,7 +24,7 @@ How To download and play Cave Test:
 
 - Download the Cave Test exe (cave_test.exe) and dos4gw.exe. Put these executables in the same folder.
 
-- In DOSBox, type "mount C C:\(filepath to your folder)". For example, I type "mount C C:\Users\Matthew\Documents\Retro-Minecraft" when I test this program.
+- In DOSBox, type "mount C C:\(filepath to your folder)".
 
 - Switch to the C: drive by typing "C:"
 
