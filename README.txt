@@ -6,7 +6,7 @@
 
 What is Cave Test?
 
-- Cave Test is a Minecraft clone developed using technology from 1993. it is currently modeled after version rd-132211, the earliest version of Minecraft.
+- Cave Test is a Minecraft clone developed using technology from 1993. it is currently modeled after Minecraft Pre-Classic, the earliest versions of Minecraft.
 
 - It is developed using Open Watcom and tested on DOSBox, an MS-DOS emulator.
 
@@ -14,9 +14,9 @@ What is Cave Test?
 
 - This project originated as a thought experiment after seeing The Science Elf on YouTube run a minecraft server on a computer from 1965. How early could a game such as Minecraft have been developed, given the technological constraints of earlier eras?
 
-- The current version of Cave test is ct-210601, given the same versioning style as rd-132211 (Minecraft).
+- The current version of Cave test is ct-210601, given the same versioning style as Minecraft version rd-132211 (ddhhmm).
 
-- The function is very similar to versions following rd-132211. This version includes movement controls, and breaking and placing blocks. Three blocks are available, selectable with the 1, 2, and 3 keys and can be placed on a 24x24x24 world map. This latest version now includes simple shadow rendering along with independent textures for each block face.
+- The function is very similar to Minecraft Pre-Classic versions. This version includes movement controls, and breaking and placing blocks. Three blocks are available, selectable with the 1, 2, and 3 keys and can be placed on a 24x24x24 world map. This latest version now includes simple shadow rendering along with independent textures for each block face.
 
 How To download and play Cave Test:
 
