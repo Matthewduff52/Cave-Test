@@ -14,9 +14,9 @@ What is Cave Test?
 
 - This project originated as a thought experiment after seeing The Science Elf on YouTube run a minecraft server on a computer from 1965. How early could a game such as Minecraft have been developed, given the technological constraints of earlier eras?
 
-- The current version of Cave test is ct-200133, given the same versioning style as rd-132211 (Minecraft).
+- The current version of Cave test is ct-210048, given the same versioning style as rd-132211 (Minecraft).
 
-- The function is very similar to rd-132211. This version includes movement controls, and breaking and placing blocks. Like rd-132211, all blocks placed on the surface layer default to green, with all other blocks defaulting to grey.
+- The function is very similar to versions following rd-132211. This version includes movement controls, and breaking and placing blocks. Three blocks are available, selectable with the 1, 2, and 3 keys and can be placed on a 24x24x24 world map.
 
 How To download and play Cave Test:
 
