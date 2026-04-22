@@ -1,0 +1,6 @@
+ct-212145 changelog
+
+- added Dirt block (4)
+- world size changed from 24x24x24 to 32x32x24
+- world size configurable in main.c
+- can now (almost) look directly up and down
