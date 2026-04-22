@@ -2,7 +2,7 @@
   / ___|__ ___   _____  |_   _|__  ___| |_
  | |   / _` \ \ / / _ \   | |/ _ \/ __| __|
  | |__| (_| |\ V /  __/   | |  __/\__ \ |_
-  \____\__,_| \_/ \___|   |_|\___||___/\__|
+  \____\__,_| \_/ \___|   |_|\___||___/\__| ver. ct-212145
 
 What is Cave Test?
 
@@ -14,7 +14,7 @@ What is Cave Test?
 
 - This project originated as a thought experiment after seeing The Science Elf on YouTube run a minecraft server on a computer from 1965. How early could a game such as Minecraft have been developed, given the technological constraints of earlier eras?
 
-- The current version of Cave test is ct-210601, given the same versioning style as Minecraft version rd-132211 (ddhhmm).
+- The current version of Cave test is ct-212145, given the same versioning style as Minecraft version rd-132211 (ddhhmm).
 
 - The function is very similar to Minecraft Pre-Classic versions. This version includes movement controls, and breaking and placing blocks. Three blocks are available, selectable with the 1, 2, and 3 keys and can be placed on a 24x24x24 world map. This latest version now includes simple shadow rendering along with independent textures for each block face.
 
