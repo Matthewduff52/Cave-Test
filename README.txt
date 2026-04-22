@@ -16,7 +16,7 @@ What is Cave Test?
 
 - The current version of Cave test is ct-212145, given the same versioning style as Minecraft version rd-132211 (ddhhmm).
 
-- The function is very similar to Minecraft Pre-Classic versions. This version includes movement controls, and breaking and placing blocks. Three blocks are available, selectable with the 1, 2, and 3 keys and can be placed on a 24x24x24 world map. This latest version now includes simple shadow rendering along with independent textures for each block face.
+- The function is very similar to Minecraft Pre-Classic versions. This version includes movement controls, and breaking and placing blocks. Four blocks are available, selectable with the 1-4 keys and can be placed on a 32x32x24 world map. This latest version now includes simple shadow rendering along with independent textures for each block face.
 
 How To download and play Cave Test:
 
