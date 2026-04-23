@@ -1,0 +1,5 @@
+ct-222344 changelog
+
+- added simple terrain generation
+- increased world size to 128x128x64
+- implemented render distance of 32 blocks
